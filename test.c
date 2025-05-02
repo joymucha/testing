@@ -8,3 +8,6 @@ int main(){
 }
 
 JOY BIJI
+
+Kmu yang BIJIJIIIII
+
