@@ -6,3 +6,5 @@ int main(){
     printf("CHRSJOOOOOOO BIJIJIIIIIIIIIIIIIIIIIII");
     return 0;
 }
+
+JOY BIJI
